@@ -1,1 +1,1 @@
-https://github.com/Akshay2002Singh/todo.html
+https://akshay2002singh.github.io/to-do_app/todo.html
